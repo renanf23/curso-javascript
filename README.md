@@ -1,4 +1,4 @@
-# Curso de JavaScrit
+# Curso de JavaScript
 
 Curso do básico ao avançado de Javascript pela Onebitcode.
 
