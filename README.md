@@ -11,3 +11,5 @@ Curso do básico ao avançado de Javascript pela Onebitcode.
 -Promises
 -Funções Async
 -Ultilização de APIs Restfull
+
+Feito por Renan Ferreira
